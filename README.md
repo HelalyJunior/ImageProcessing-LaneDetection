@@ -21,3 +21,24 @@ This is a group project presented in Image Processing course (CSE374)
 ## 3 - You can also directly launch the code using terminal
 
 ##### you will then need to pass the arguments via the command line normally
+
+
+# Check the preformance of the code 
+
+# Video Sample 1 
+https://www.youtube.com/watch?v=6l6cl9k6qiY
+
+# Video Sample 2
+
+https://www.youtube.com/watch?v=GGt5KkZFYIs
+
+# Also Check some the preformance on some test cases
+
+![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file1.jpg)
+![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file2.jpg)
+![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file3.jpg)
+![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file4.jpg)
+![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file5.jpg)
+![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file6.jpg)
+![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file7.jpg)
+![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file8.jpg)
