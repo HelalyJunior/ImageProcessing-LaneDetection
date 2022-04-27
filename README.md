@@ -12,7 +12,7 @@ This is a group project presented in Image Processing course (CSE374)
 |----------|:-------------:|:-------------|
 | Amr Wael Helaly |  1808447 | [HelalyJunior](https://github.com/HelalyJunior)     |
 | Amr Amin Shawky |   1803092  | [AmrAmin761](https://github.com/AmrAmin761)   |
-| Omar Hussien Mahmoud  | 1804749 |       |
+| Omar Hussien Mahmoud  | 1804749 | [OmarElkhashab](https://github.com/OmarElkhashab) |
 
 
 # STEPS TO USE THE CODE
