@@ -7,6 +7,14 @@
 
 This is a group project presented in Image Processing course (CSE374)
 
+## List of Contributors
+| Names    |      Code     |    Github  |
+|----------|:-------------:|:-------------|
+| Amr Wael Helaly |  1808447 | [HelalyJunior](https://github.com/HelalyJunior)     |
+| Amr Amin Shawky |   1803092  | [AmrAmin761](https://github.com/AmrAmin761)   |
+| Omar Hussien Mahmoud  | 1804749 |       |
+
+
 # STEPS TO USE THE CODE
 
  ## 1 - Ensure that you have installed the required libraires
