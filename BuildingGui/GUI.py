@@ -1,6 +1,7 @@
 # import all components
 # from the tkinter library
 from tkinter import *
+import subprocess
 
 # import filedialog module
 from tkinter import filedialog
@@ -39,6 +40,9 @@ def click_me():
         f.write("call conda activate MLenv\n")
         f.write(f"py curvedTrying.py {t} {i.get()} {j}/"+'\n')
         f.write("call conda deactivate")
+	
+    subprocess.call([r'run.bat'])
+    
         
         
     
