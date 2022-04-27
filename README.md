@@ -2,6 +2,9 @@
 # LANE DETECTION
 ## Using Pure Image Processing techniques
 
+##
+![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/COVER.png)
+
 This is a group project presented in Image Processing course (CSE374)
 
 # STEPS TO USE THE CODE
