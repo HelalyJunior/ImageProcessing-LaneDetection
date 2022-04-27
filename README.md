@@ -13,6 +13,7 @@ This is a group project presented in Image Processing course (CSE374)
 ###### 1 - OpenCV
 ##### 2 - NumPy
 ##### 3 - Math
+##### 4 - Tkinter and PyPDF2 in case you will use the GUI
 
 
  ## 2 - Open it using Batch Script 
@@ -21,9 +22,15 @@ This is a group project presented in Image Processing course (CSE374)
 ##### 3 - Choose 1 for debugging Mode or 0 for production Mode
 ##### 4 - Specify the address of the Destination video
 
-## 3 - You can also directly launch the code using terminal
+## 3 - You can also launch directly launch the code using terminal
 
 ##### you will then need to pass the arguments via the command line normally
+
+
+## 3 - You can also launch it using the GUI
+
+##### you can check this video on using it 
+https://www.youtube.com/watch?v=dIRCUir0n_g
 
 
 # Check the preformance of the code 
