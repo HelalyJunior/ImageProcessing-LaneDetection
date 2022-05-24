@@ -1,8 +1,10 @@
 
-# LANE DETECTION
-## Using Pure Image Processing techniques
 
-##
+# LANES & CARS DETECTION
+
+
+
+
 ![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/COVER.png)
 
 This is a group project presented in Image Processing course (CSE374)
@@ -41,15 +43,26 @@ This is a group project presented in Image Processing course (CSE374)
 https://www.youtube.com/watch?v=dIRCUir0n_g
 
 
+
 # Check the preformance of the code 
 
-# Video Sample 1 
+### PHASE 1 : Lane Detection Using Pure Image Processing techniques
+
+## Video Sample 1 
 https://www.youtube.com/watch?v=6l6cl9k6qiY
 
-# Video Sample 2
+## Video Sample 2
 
 https://www.youtube.com/watch?v=GGt5KkZFYIs
 
+### PHASE 2 : Car Detection using YOLOV3
+
+## Video Sample 1 
+https://youtu.be/BsH7GGB-oP0
+
+## Video Sample 2
+
+https://www.youtube.com/watch?v=4Eu3gxHvrPU
 # Also Check some the preformance on some test cases
 
 ![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file1.jpg)

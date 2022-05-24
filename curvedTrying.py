@@ -3,11 +3,8 @@
 
 # In[582]:
 
-
-from re import M
+from yolo import yolo_init,run_yolo
 import cv2
-import matplotlib.image as mpimg
-import matplotlib.pyplot as plt
 import numpy as np
 import math
 from numpy import ones,vstack
@@ -114,8 +111,7 @@ def calculateDistance(x1,y1,x2,y2):
     
 
 
-# In[584]:
-
+net,layers_names=yolo_init()
 
 # CHOOSING THE POINTS TO USE IN THE PRESPECTIVE TRANSFORM
 input_top_left = [500,480]
@@ -378,18 +374,16 @@ while cap.isOpened():
   imgg = img.copy()
   
   
+  run_yolo(net,layers_names,imgg)
+  
 # ADD THE REGENERATED IMAGE WITH THE ORIGINAL IMAGE 
   k=cv2.threshold(grayscale(re_gen), 0, 255, cv2.THRESH_BINARY)
   masked = cv2.bitwise_and(img,img,mask=k[1])  
   m=cv2.bitwise_xor(masked,imgg)
   cv2.addWeighted(m, 1, re_gen, 1,0, imgg)
   cv2.addWeighted(gh, 1, imgg, 1,0, imgg)
-  
-  
-  
   # A 
-  
-  
+
   counter+=1
   
   if mode == str(1):
