@@ -360,7 +360,7 @@ while cap.isOpened():
 
   # PUT THE TEXT ON THE IMAGE 
   text = "Distance : "  + str(round(dist*(1/scale),3)) + "m."
-  cv2.putText(img=bird_cpy, text=text, org=(400, 400), fontFace=cv2.FONT_HERSHEY_TRIPLEX, fontScale=2, color=(0, 255, 0),thickness=5)
+  cv2.putText(img=bird_cpy, text=text, org=(400, 400), fontFace=cv2.FONT_HERSHEY_TRIPLEX, fontScale=2, color=(255, 255, 255),thickness=5)
 
 
 # DRAW A POINT REPRESENTING THE CENTRE OF MY CAR

@@ -58,7 +58,8 @@ def run_yolo(net,layers_names,img):
             (w,h) = [boxes[i][2], boxes[i][3]]
         
         
-            cv2.rectangle(img, (x, y), (x + w, y + h), (0, 255, 255), 2)
-            cv2.putText(img,"{}: {}".format(labels[classIDs[i]],confidences[i]), ( x, y - 5), cv2.FONT_HERSHEY_SIMPLEX, \
-                                0.5, (0,255,255), 2)
+            cv2.rectangle(img, (x, y-20), (x + 80, y), (0, 205, 255), -1)
+            cv2.rectangle(img, (x, y), (x + w, y + h), (0, 205, 255), 3)
+            cv2.putText(img,"{}: {}".format(labels[classIDs[i]],round(float(confidences[i]),2)), ( x, y - 5), cv2.FONT_HERSHEY_SIMPLEX, \
+                                0.5, (0, 0, 0), 2)
     

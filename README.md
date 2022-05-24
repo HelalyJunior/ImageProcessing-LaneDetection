@@ -58,11 +58,11 @@ https://www.youtube.com/watch?v=GGt5KkZFYIs
 ### PHASE 2 : Car Detection using YOLOV3
 
 ## Video Sample 1 
-https://youtu.be/BsH7GGB-oP0
+https://youtu.be/R-Z5XyLMmas
 
 ## Video Sample 2
 
-https://www.youtube.com/watch?v=4Eu3gxHvrPU
+https://youtu.be/sj8EkRIjUmQ
 # Also Check some the preformance on some test cases
 
 ![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file1.jpg)
@@ -80,3 +80,7 @@ https://www.youtube.com/watch?v=4Eu3gxHvrPU
 ![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file7.jpg)
 ##
 ![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file8.jpg)
+##
+![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file9.jpg)
+##
+![alt text](https://github.com/HelalyJunior/ImageProcessing-LaneDetection/blob/main/Test_Cases/file10.jpg)
